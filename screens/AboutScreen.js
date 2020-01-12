@@ -19,8 +19,9 @@ export default class AboutScreen extends React.Component {
           <Text style={styles.textTitle}>Founders</Text>
           <Text style={styles.textSimple}>Nabeel and Imaan Hingun</Text>
           <Text style={styles.textSimple}>Booknest was launched as an initiative to promote reading, particularly among the youth. The project based on the
-          "Little Free Library" was launched in 2016 and after difficult starts regarding authorization with local authorities to install the Booknests, 
-          the project finally gained some traction. We now have multiple Booknests around the island and have more demand to install additional Booknests.</Text>
+          "Little Free Library" was launched in 2016 and after difficult starts regarding authorization, with local authorities, to install the Booknests, 
+          the project finally gained some traction. We now have multiple Booknests around the island and have more demand to install additional Booknests.
+          We are grateful to every one who helped make this project a reality and hope to expand in the future. </Text>
         </View>
       </View>
     );
