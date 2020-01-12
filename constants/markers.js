@@ -6,12 +6,6 @@ export default class Markers extends React.Component{
     return (
         <React.Fragment>
         <MapView.Marker
-            coordinate={{latitude: -20.286462,
-                        longitude: 57.764947}}
-            title={"test"}
-            description={"description"}
-        />
-        <MapView.Marker
             coordinate={{latitude: -20.317781,
                         longitude: 57.5091109}}
             title={"Trou aux Cerfs Running Track"}
